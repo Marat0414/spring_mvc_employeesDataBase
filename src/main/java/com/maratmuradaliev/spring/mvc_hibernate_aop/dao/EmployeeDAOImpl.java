@@ -1,7 +1,7 @@
 package com.maratmuradaliev.spring.mvc_hibernate_aop.dao;
 
 import com.maratmuradaliev.spring.mvc_hibernate_aop.entity.Employee;
-import jakarta.transaction.Transactional;
+
 import org.hibernate.Session;
 import org.hibernate.SessionFactory;
 import org.hibernate.query.Query;
